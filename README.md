@@ -23,8 +23,7 @@
 ### Project Overview
 This Data Analysis project provides insight into the sales performance of a UK based stores from the month of January to June in the year 2017. By analyzing both the sales performance of different Managers and different Category in both stores.
 We seek to know the store with the largest sales per month, to know the sales performance for managers in both stores and sales performance for product category.
-
-[Sales Performance Analysis for UK Based Stores.xlsx](https://github.com/user-attachments/files/17217696/Sales.Performance.Analysis.for.UK.Based.Stores.xlsx)
+![Sales performance Dashboard](https://github.com/user-attachments/assets/c8cb9232-4c09-47e0-b26a-e3c47a3e62e3)
 
 
 ### Data Source
