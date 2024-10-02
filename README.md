@@ -10,7 +10,7 @@
 
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 
-- [Result/Findings](result/-#findings)
+- [Result/Findings](result/-findings)
 
 - [Recomendation](#recomendation)
 
