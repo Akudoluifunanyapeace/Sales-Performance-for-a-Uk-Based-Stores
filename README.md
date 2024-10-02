@@ -4,19 +4,17 @@
 
 - [Data Source](#data-source)
 
--[Tools](#tools)
+- [Tools](#tools)
 
-- [Data Cleaning](#data-Cleaning)
+- [Data Cleaning](#data-cleaning)
 
-- [Exploratory Data Analysis](#exploratory-Data-Analysis)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 
-- [Data Analysis](#data-Analysis)
-
-- [Result/Findings](#result/-Findings)
+- [Result/Findings](result/-findings)
 
 - [Recomendation](#recomendation)
 
-- [Limitations](#limitations)
+
 
 
 
