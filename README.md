@@ -10,7 +10,7 @@
 
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 
-- [Result/Findings](result/-findings)
+- [Result/Findings](result/-#findings)
 
 - [Recomendation](#recomendation)
 
@@ -38,7 +38,7 @@ EDA involved exploring the sales data for both stores to answer key questions su
 - Sales Performances for Managers in both stores
 - Monthly sales breakdown revenue
 - Sales performance for product category, that is to identify product that are top sellers.
-### Result/Findings
+### Result and Findings
 1.	Computech store had the highest sale from the month of January to June in the year 2017. And their highest sale was in the month April. 
 2.	Microworld and Computech had its biggest sale in the month of April and their lowest sales in the month of June
 3.	Computech top selling product for product category is Pc’s (Personal Computer) while Microworld top selling product for product category is Memory card
