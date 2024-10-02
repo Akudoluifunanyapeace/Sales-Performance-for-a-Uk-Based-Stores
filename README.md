@@ -56,7 +56,13 @@ EDA involved exploring the sales data for both stores to answer key questions su
 
 3.Top Sales Performance Managers should be rewarded with either a promotion or giving a raise to encourage others in both stores.
 ### Limitation
-We had to remove grand total in our sum of sales Pivot table as it was not necessary and wasn't affecting the result from Pivot chart 
+We had to remove grand total in our sum of sales Pivot table as it was not necessary and wasn't affecting the result from Pivot chart
+
+💻
+|Heading|
+|-------|
+|Content|
+|Excel|
 
 
 
