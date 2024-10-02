@@ -1,22 +1,22 @@
 # UK Based Stores (Computech & Microworld) Sales Performance Analysis
 ## Table of Contents
-[Project overview](project-overview)
+- [Project overview](#project-overview)
 
-[Data Source](Data-Source)
+- [Data Source](#data-source)
 
-[Tools](Tools)
+-[Tools](#tools)
 
-[Data Cleaning](Data-Cleaning)
+- [Data Cleaning](#data-Cleaning)
 
-[Exploratory Data Analysis](Exploratory-Data-Analysis)
+- [Exploratory Data Analysis](#exploratory-Data-Analysis)
 
-[Data Analysis](Data-Analysis)
+- [Data Analysis](#data-Analysis)
 
-[Result/Findings](Result/-Findings)
+- [Result/Findings](#result/-Findings)
 
-[Recomendation](Recomendation)
+- [Recomendation](#recomendation)
 
-[Limitations](Limitations)
+- [Limitations](#limitations)
 
 
 
